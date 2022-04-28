@@ -1,8 +1,5 @@
 ## Olá !!
 
-- 🔥 | Estudando Python on Linux
-- 📧 | Contato: iurygol@gmail.com
-
 
 <div align="center">
   <a href="https://github.com/iurynascimento">
